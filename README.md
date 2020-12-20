@@ -13,7 +13,7 @@ allprojects {
 2. Add the dependency
 ```
 dependencies {
-    implementation 'com.github.wangjianxiandev:ColorPicker:1.0.0'
+    implementation 'com.github.wangjianxiandev:ColorPicker:1.0.1'
 }
 ```
 
